@@ -1,0 +1,431 @@
+2024-02-06 23:18:41:1841 info: In create kart controller
+2024-02-06 23:18:41:1841 info: Query: responded with new kart product: {
+  products: [
+    {
+      product: new ObjectId('65c0a452cfe84c9b6ff55672'),
+      quantity: 5,
+      _id: new ObjectId('65c270f944978f78d9d6e383')
+    }
+  ],
+  user: new ObjectId('65c09184d2867d9b2de4c1a2'),
+  _id: new ObjectId('65c270f944978f78d9d6e382'),
+  createdAt: 2024-02-06T17:48:41.972Z,
+  updatedAt: 2024-02-06T17:48:41.972Z
+}
+2024-02-06 23:18:48:1848 info: In create kart controller
+2024-02-06 23:19:14:1914 info: In create kart controller
+2024-02-06 23:50:30:5030 info: Error in viewing product kart: out of stock: Tata Tea 250G
+2024-02-07 00:05:10:510 info: Error in viewing product kart: out of stock: Tata Tea 500G
+2024-02-07 00:05:35:535 info: Error in viewing product kart: out of stock: Tata Tea 500G
+2024-02-07 00:05:55:555 info: Error in viewing product kart: out of stock: Tata Tea 500G
+2024-02-07 00:11:47:1147 info: Error in viewing product kart: oder is not defined
+2024-02-07 00:17:45:1745 info: Error in viewing product kart: product is not defined
+2024-02-07 00:22:54:2254 info: Getting all products in kart
+2024-02-07 00:52:18:5218 info: In create kart controller
+2024-02-07 00:52:18:5218 info: Query: responded with new kart product
+2024-02-07 00:54:41:5441 info: In create kart controller
+2024-02-07 00:54:41:5441 info: Query: responded with new kart product
+2024-02-07 00:56:28:5628 info: In create kart controller
+2024-02-07 00:56:28:5628 info: Query: responded with new kart product
+2024-02-07 00:57:51:5751 info: In create kart controller
+2024-02-07 00:57:51:5751 info: Query: responded with new kart product
+2024-02-07 00:58:50:5850 info: In create kart controller
+2024-02-07 00:58:50:5850 info: Query: responded with new kart product
+2024-02-07 01:00:25:025 info: In create kart controller
+2024-02-07 01:00:25:025 info: Query: responded with new kart product
+2024-02-07 01:02:33:233 info: In create kart controller
+2024-02-07 01:02:33:233 info: Query: responded with new kart product
+2024-02-07 01:02:43:243 info: In create kart controller
+2024-02-07 01:03:03:33 info: In create kart controller
+2024-02-07 10:22:20:2220 info: In create kart controller
+2024-02-07 10:23:53:2353 info: In create kart controller
+2024-02-07 10:23:53:2353 info: Query: responded with new kart product
+2024-02-07 10:24:03:243 info: In create kart controller
+2024-02-07 10:25:14:2514 info: In create kart controller
+2024-02-07 10:25:14:2514 info: Query: responded with new kart product
+2024-02-07 10:25:24:2524 info: In create kart controller
+2024-02-07 10:26:19:2619 info: In create kart controller
+2024-02-07 10:27:08:278 info: In create kart controller
+2024-02-07 10:29:59:2959 info: In create kart controller
+2024-02-07 10:31:46:3146 info: In create kart controller
+2024-02-07 10:32:37:3237 info: In create kart controller
+2024-02-07 10:32:37:3237 info: Query: responded with new kart product
+2024-02-07 10:32:47:3247 info: In create kart controller
+2024-02-07 10:34:21:3421 info: In create kart controller
+2024-02-07 10:34:21:3421 info: Query: responded with new kart product
+2024-02-07 10:34:43:3443 info: In create kart controller
+2024-02-07 10:35:05:355 info: In create kart controller
+2024-02-07 11:28:52:2852 info: Validating create user data
+2024-02-07 11:28:52:2852 info: In create User controller
+2024-02-07 11:28:52:2852 info: Query: responded with new user created: {
+  email: 'test@gmail.com',
+  password: '$2b$10$nwTDMxBcxUbtN6pMWi9a9enc.hGdyZtmazVzoKpsbaSS1kK1Y6N4W',
+  name: 'Akash Kumar',
+  profileImage: 'avatar.png',
+  phone: '8863073785',
+  role: 'user',
+  active: true,
+  _id: new ObjectId('65c31c1c42934e1a65f899cd'),
+  addresses: [],
+  createdAt: 2024-02-07T05:58:52.526Z,
+  updatedAt: 2024-02-07T05:58:52.526Z,
+  __v: 0
+}
+2024-02-07 11:29:37:2937 info: Validating user login req body
+2024-02-07 11:29:37:2937 info: User Login Initiated for test@gmail.com
+2024-02-07 11:31:03:313 info: Getting all products in kart
+2024-02-07 11:31:20:3120 info: Getting all products in kart
+2024-02-07 11:31:50:3150 info: Getting all products in kart
+2024-02-07 11:32:20:3220 info: In create kart controller
+2024-02-07 11:32:20:3220 info: Query: responded with new kart product
+2024-02-07 11:32:32:3232 info: In create kart controller
+2024-02-07 11:34:13:3413 info: In create kart controller
+2024-02-07 11:34:13:3413 info: Query: responded with new kart product
+2024-02-07 11:34:21:3421 info: Getting all products in kart
+2024-02-08 13:49:30:4930 info: Validating user login req body
+2024-02-08 13:49:30:4930 info: User Login Initiated for admin@gmail.com
+2024-02-08 13:51:43:5143 info: Error in make a order: Cast to date failed for value "Invalid Date" (type Date) at path "createdAt" for model "Order"
+2024-02-08 14:58:31:5831 info: Error in fetch report: Cannot read properties of undefined (reading 'toString')
+2024-02-08 14:59:17:5917 info: Error in fetch report: Cannot read properties of undefined (reading 'toString')
+2024-02-08 15:06:54:654 info: Error in fetch report: Assignment to constant variable.
+2024-02-08 15:08:53:853 info: Error in fetch report: array is not defined
+2024-02-08 15:11:47:1147 info: Error in fetch report: array is not defined
+2024-02-29 10:11:33:1133 info: Validating create user data
+2024-02-29 10:11:33:1133 info: In create User controller
+2024-02-29 10:11:34:1134 info: Query: responded with new user created: {
+  email: 'admin@gmail.com',
+  password: '$2b$10$GTeHx1K4haI0ELop6kXOLeC8UUJUL8jkOHvvoz6K3TRnQ7w2V4iRC',
+  name: 'Akash Kumar',
+  profileImage: 'avatar.png',
+  phone: '8863073781',
+  role: 'admin',
+  active: true,
+  _id: new ObjectId('65e00afedb82e06b75e6aeb4'),
+  addresses: [],
+  createdAt: 2024-02-29T04:41:34.143Z,
+  updatedAt: 2024-02-29T04:41:34.143Z,
+  __v: 0
+}
+2024-02-29 10:12:29:1229 info: Validating create user data
+2024-02-29 10:12:29:1229 info: In create User controller
+2024-02-29 10:12:29:1229 info: Query: responded with new user created: {
+  email: 'akash@gmail.com',
+  password: '$2b$10$Xu/vhhOHlolJPnaXGiO37eiR0zVmxcC2wWfX5Zkaz.4xlPZBEzhTy',
+  name: 'Akash Kumar',
+  profileImage: 'avatar.png',
+  phone: '8863073781',
+  role: 'user',
+  active: true,
+  _id: new ObjectId('65e00b35db82e06b75e6aeb7'),
+  addresses: [],
+  createdAt: 2024-02-29T04:42:29.854Z,
+  updatedAt: 2024-02-29T04:42:29.854Z,
+  __v: 0
+}
+2024-02-29 10:12:45:1245 info: Validating create user data
+2024-02-29 10:12:45:1245 info: In create User controller
+2024-02-29 10:12:45:1245 info: Query: responded with new user created: {
+  email: 'akash1@gmail.com',
+  password: '$2b$10$TcCpHUCJ6Nejn2vtsUac.OvHVt98lgvzU3usBsqjxHt78CZhAGPGS',
+  name: 'Akash Kumar',
+  profileImage: 'avatar.png',
+  phone: '8863073781',
+  role: 'user',
+  active: true,
+  _id: new ObjectId('65e00b45db82e06b75e6aeba'),
+  addresses: [],
+  createdAt: 2024-02-29T04:42:45.812Z,
+  updatedAt: 2024-02-29T04:42:45.812Z,
+  __v: 0
+}
+2024-02-29 10:12:54:1254 info: Validating create user data
+2024-02-29 10:12:54:1254 info: In create User controller
+2024-02-29 10:12:54:1254 info: Query: responded with new user created: {
+  email: 'akash2@gmail.com',
+  password: '$2b$10$.BvUwHy98gAUQkr1v69P2O2.JxWmUUBPJKaXTtbg.WK4xXQ9xXEbm',
+  name: 'Akash Kumar',
+  profileImage: 'avatar.png',
+  phone: '8863073781',
+  role: 'user',
+  active: true,
+  _id: new ObjectId('65e00b4edb82e06b75e6aebd'),
+  addresses: [],
+  createdAt: 2024-02-29T04:42:54.438Z,
+  updatedAt: 2024-02-29T04:42:54.438Z,
+  __v: 0
+}
+2024-02-29 10:13:29:1329 info: Validating user login req body
+2024-02-29 10:13:29:1329 info: User Login Initiated for Akash@gmail.com
+2024-02-29 10:14:36:1436 info: Validating user login req body
+2024-02-29 10:14:36:1436 info: User Login Initiated for akash@gmail.com
+2024-02-29 10:15:04:154 info: Validating update password req body
+2024-02-29 10:16:03:163 info: Validating user login req body
+2024-02-29 10:16:03:163 info: User Login Initiated for admin@gmail.com
+2024-02-29 10:17:30:1730 info: in category create for product
+2024-02-29 10:17:30:1730 info: Query: responded with new categoy created: {
+  catagoryName: 'grocery',
+  description: 'daily uses needs',
+  active: true,
+  _id: new ObjectId('65e00c62db82e06b75e6aec9'),
+  createdAt: 2024-02-29T04:47:30.243Z,
+  updatedAt: 2024-02-29T04:47:30.243Z,
+  __v: 0
+}
+2024-02-29 10:18:20:1820 info: In create product controller
+2024-02-29 10:18:21:1821 info: Query: responded with new product created: {
+  productName: 'Tata salt 1KG',
+  categoryId: new ObjectId('65e00c62db82e06b75e6aec9'),
+  batchNumber: '151218',
+  productDescription: 'it contain iodine salt ',
+  productPrice: 20,
+  productActualPrice: 16,
+  productQuantity: 500,
+  productImage: 'tata.jpg',
+  productMfgDate: 2024-02-03T00:00:00.000Z,
+  productExpiyDate: 2025-02-03T00:00:00.000Z,
+  productBarcode: '989635214545789',
+  slug: 'best salt,iodine salt,500g,salt,grocery',
+  active: true,
+  reviews: [],
+  _id: new ObjectId('65e00c95db82e06b75e6aecc'),
+  createdAt: 2024-02-29T04:48:21.069Z,
+  updatedAt: 2024-02-29T04:48:21.069Z,
+  __v: 0
+}
+2024-02-29 10:19:06:196 info: In create product controller
+2024-02-29 10:19:06:196 info: Query: responded with new product created: {
+  productName: 'Tata salt 5KG',
+  categoryId: new ObjectId('65e00c62db82e06b75e6aec9'),
+  batchNumber: '151218',
+  productDescription: 'it contain iodine salt ',
+  productPrice: 80,
+  productActualPrice: 75,
+  productQuantity: 500,
+  productImage: 'tata.jpg',
+  productMfgDate: 2024-02-03T00:00:00.000Z,
+  productExpiyDate: 2025-02-03T00:00:00.000Z,
+  productBarcode: '9896352145457241',
+  slug: 'best salt,iodine salt,500g,salt,grocery',
+  active: true,
+  reviews: [],
+  _id: new ObjectId('65e00cc2db82e06b75e6aecf'),
+  createdAt: 2024-02-29T04:49:06.751Z,
+  updatedAt: 2024-02-29T04:49:06.751Z,
+  __v: 0
+}
+2024-02-29 10:20:43:2043 info: In create product controller
+2024-02-29 10:20:43:2043 info: Query: responded with new product created: {
+  productName: 'Tata Sugar 5KG',
+  categoryId: new ObjectId('65e00c62db82e06b75e6aec9'),
+  batchNumber: '151218',
+  productDescription: 'it is best sugar in market ',
+  productPrice: 200,
+  productActualPrice: 180,
+  productQuantity: 500,
+  productImage: 'tata_sugar.jpg',
+  productMfgDate: 2024-02-03T00:00:00.000Z,
+  productExpiyDate: 2025-02-03T00:00:00.000Z,
+  productBarcode: '9896352145457275',
+  slug: 'best sugar,5kg,Sugar,grocery',
+  active: true,
+  reviews: [],
+  _id: new ObjectId('65e00d23db82e06b75e6aed2'),
+  createdAt: 2024-02-29T04:50:43.529Z,
+  updatedAt: 2024-02-29T04:50:43.529Z,
+  __v: 0
+}
+2024-02-29 10:21:31:2131 info: In create product controller
+2024-02-29 10:21:41:2141 info: In create product controller
+2024-02-29 10:21:41:2141 info: Query: responded with new product created: {
+  productName: 'Tata Sugar 1KG',
+  categoryId: new ObjectId('65e00c62db82e06b75e6aec9'),
+  batchNumber: '151218',
+  productDescription: 'it is best sugar in market ',
+  productPrice: 40,
+  productActualPrice: 38,
+  productQuantity: 500,
+  productImage: 'tata_sugar.jpg',
+  productMfgDate: 2024-02-03T00:00:00.000Z,
+  productExpiyDate: 2025-02-03T00:00:00.000Z,
+  productBarcode: '9896352145457276',
+  slug: 'best sugar,1kg,Sugar,grocery',
+  active: true,
+  reviews: [],
+  _id: new ObjectId('65e00d5ddb82e06b75e6aed6'),
+  createdAt: 2024-02-29T04:51:41.291Z,
+  updatedAt: 2024-02-29T04:51:41.291Z,
+  __v: 0
+}
+2024-02-29 10:22:07:227 info: Getting all products
+2024-02-29 10:47:37:4737 info: Validating user login req body
+2024-02-29 10:47:37:4737 info: User Login Initiated for akash@gmail.com
+2024-02-29 10:48:29:4829 info: Getting all products
+2024-02-29 10:48:43:4843 info: In create kart controller
+2024-02-29 10:48:43:4843 info: Query: responded with new kart product
+2024-02-29 10:48:45:4845 info: In create kart controller
+2024-02-29 10:48:55:4855 info: In create kart controller
+2024-02-29 10:49:26:4926 info: In create kart controller
+2024-02-29 10:49:31:4931 info: In create kart controller
+2024-02-29 10:50:10:5010 info: Getting all products in kart
+2024-02-29 10:53:44:5344 info: Validating user login req body
+2024-02-29 10:53:44:5344 info: User Login Initiated for admin@gmail.com
+2024-02-29 10:55:31:5531 info: Error in fetch report: Cast to date failed for value "Invalid Date" (type Date) at path "createdAt" for model "Order"
+2024-02-29 10:56:53:5653 info: Error in fetch report: Cast to date failed for value "Invalid Date" (type Date) at path "createdAt" for model "Order"
+2024-02-29 10:57:40:5740 info: Error in fetch report: Cast to date failed for value "Invalid Date" (type Date) at path "createdAt" for model "Order"
+2024-02-29 10:58:15:5815 info: Error in fetch report: Cast to date failed for value "Invalid Date" (type Date) at path "createdAt" for model "Order"
+2024-02-29 11:38:32:3832 info: In create kart controller
+2024-02-29 11:38:32:3832 info: Query: responded with new kart product
+2024-02-29 11:54:52:5452 info: Error in fetch report: db.aggregate(...).populate is not a function
+2024-02-29 12:01:11:111 info: Error in fetch report: db.aggregate(...).populate is not a function
+2024-02-29 12:01:13:113 info: Error in fetch report: db.aggregate(...).populate is not a function
+2024-02-29 12:06:20:620 info: Error in fetch report: must specify 'pipeline' when 'from' is empty
+2024-03-01 14:26:34:2634 info: Validating create user data
+2024-03-01 14:26:34:2634 info: In create User controller
+2024-03-01 14:39:35:3935 info: Validating create user data
+2024-03-01 14:39:35:3935 info: In create User controller
+2024-03-01 14:39:35:3935 info: Query: responded with new user created: {
+  email: 'akash15@yopmail.com',
+  password: '$2b$10$cySb.wqU4hPQqFKBwgbPJOMNPaBabvvqMr3rcUiooNXqcQaWgWdQK',
+  name: 'AKASH KUMAR',
+  profileImage: 'avatar.png',
+  phone: '8863245874',
+  role: 'user',
+  active: true,
+  _id: new ObjectId('65e19b4f1dc68fdc7133aaa1'),
+  addresses: [],
+  createdAt: 2024-03-01T09:09:35.583Z,
+  updatedAt: 2024-03-01T09:09:35.583Z,
+  __v: 0
+}
+2024-03-01 14:40:12:4012 info: Validating create user data
+2024-03-01 14:40:12:4012 info: In create User controller
+2024-03-01 14:40:40:4040 info: Validating create user data
+2024-03-01 14:40:40:4040 info: In create User controller
+2024-03-01 14:41:48:4148 info: Validating create user data
+2024-03-01 14:41:48:4148 info: In create User controller
+2024-03-01 14:46:20:4620 info: Validating create user data
+2024-03-01 14:46:20:4620 info: In create User controller
+2024-03-01 14:47:08:478 info: Validating create user data
+2024-03-01 14:47:08:478 info: In create User controller
+2024-03-01 14:48:24:4824 info: Validating create user data
+2024-03-01 14:48:24:4824 info: In create User controller
+2024-03-01 14:49:51:4951 info: Validating create user data
+2024-03-01 14:51:20:5120 info: Validating create user data
+2024-03-01 14:51:20:5120 info: In create User controller
+2024-03-01 14:52:31:5231 info: Validating create user data
+2024-03-01 14:52:31:5231 info: In create User controller
+2024-03-01 14:55:24:5524 info: Validating create user data
+2024-03-01 14:55:24:5524 info: In create User controller
+2024-03-01 14:59:43:5943 info: Validating create user data
+2024-03-01 14:59:43:5943 info: In create User controller
+2024-03-01 15:03:54:354 info: Validating create user data
+2024-03-01 15:03:54:354 info: In create User controller
+2024-03-01 15:05:13:513 info: Validating create user data
+2024-03-01 15:05:58:558 info: Validating create user data
+2024-03-01 17:57:56:5756 info: Validating user login req body
+2024-03-01 17:57:56:5756 info: User Login Initiated for admin@gmail.com
+2024-03-01 17:58:15:5815 info: Getting all products
+2024-03-01 19:51:01:511 info: Validating user login req body
+2024-03-01 19:51:01:511 info: User Login Initiated for admin@gmail.com
+2024-03-01 19:54:42:5442 info: Getting all products
+2024-03-01 19:54:47:5447 info: Getting all products
+2024-03-01 19:54:47:5447 info: Getting all products
+2024-03-01 19:55:42:5542 info: Getting all products
+2024-03-01 19:55:42:5542 info: Getting all products
+2024-03-01 19:55:44:5544 info: Getting all products
+2024-03-01 19:55:44:5544 info: Getting all products
+2024-03-01 19:55:48:5548 info: Getting all products
+2024-03-01 19:55:48:5548 info: Getting all products
+2024-03-01 19:56:02:562 info: Getting all products
+2024-03-01 19:56:02:562 info: Getting all products
+2024-03-01 19:56:59:5659 info: Getting all products
+2024-03-01 19:56:59:5659 info: Getting all products
+2024-03-01 19:57:10:5710 info: Getting all products
+2024-03-01 19:57:11:5711 info: Getting all products
+2024-03-01 19:57:18:5718 info: Getting all products
+2024-03-01 19:57:18:5718 info: Getting all products
+2024-03-01 19:57:44:5744 info: Getting all products
+2024-03-01 19:57:44:5744 info: Getting all products
+2024-03-01 19:57:44:5744 info: Getting all products
+2024-03-01 19:57:44:5744 info: Getting all products
+2024-03-01 19:58:03:583 info: Getting all products
+2024-03-01 19:58:03:583 info: Getting all products
+2024-03-01 19:58:51:5851 info: Getting all products
+2024-03-01 19:58:51:5851 info: Getting all products
+2024-03-01 19:58:51:5851 info: Getting all products
+2024-03-01 19:58:52:5852 info: Getting all products
+2024-03-01 19:59:38:5938 info: Getting all products
+2024-03-01 19:59:38:5938 info: Getting all products
+2024-03-01 19:59:40:5940 info: Getting all products
+2024-03-01 19:59:40:5940 info: Getting all products
+2024-03-01 20:02:16:216 info: Getting all products
+2024-03-01 20:02:16:216 info: Getting all products
+2024-03-01 20:05:15:515 info: Getting all products
+2024-03-01 20:05:15:515 info: Getting all products
+2024-03-01 20:05:16:516 info: Getting all products
+2024-03-01 20:05:16:516 info: Getting all products
+2024-03-01 20:06:02:62 info: Getting all products
+2024-03-01 20:06:02:62 info: Getting all products
+2024-03-01 20:06:04:64 info: Getting all products
+2024-03-01 20:06:04:64 info: Getting all products
+2024-03-01 20:06:05:65 info: Getting all products
+2024-03-01 20:06:05:65 info: Getting all products
+2024-03-01 20:06:31:631 info: Getting all products
+2024-03-01 20:06:31:631 info: Getting all products
+2024-03-01 20:06:38:638 info: Getting all products
+2024-03-01 20:06:38:638 info: Getting all products
+2024-03-01 20:09:07:97 info: Getting all products
+2024-03-01 20:09:07:97 info: Getting all products
+2024-03-01 20:09:17:917 info: Getting all products
+2024-03-01 20:09:17:917 info: Getting all products
+2024-03-01 20:09:20:920 info: Getting all products
+2024-03-01 20:09:20:920 info: Getting all products
+2024-03-01 20:09:22:922 info: Getting all products
+2024-03-01 20:09:22:922 info: Getting all products
+2024-03-01 20:09:22:922 info: Getting all products
+2024-03-01 20:09:22:922 info: Getting all products
+2024-03-01 20:09:23:923 info: Getting all products
+2024-03-01 20:09:23:923 info: Getting all products
+2024-03-01 20:09:24:924 info: Getting all products
+2024-03-01 20:09:24:924 info: Getting all products
+2024-03-01 20:09:24:924 info: Getting all products
+2024-03-01 20:09:24:924 info: Getting all products
+2024-03-01 20:09:34:934 info: Getting all products
+2024-03-01 20:09:34:934 info: Getting all products
+2024-03-01 20:12:07:127 info: Getting all products
+2024-03-01 20:14:08:148 info: Getting all products
+2024-03-01 20:14:08:148 info: Getting all products
+2024-03-01 20:16:20:1620 info: Getting all products
+2024-03-01 20:16:20:1620 info: Getting all products
+2024-03-01 20:16:21:1621 info: Getting all products
+2024-03-01 20:16:21:1621 info: Getting all products
+2024-03-01 20:17:03:173 info: Getting all products
+2024-03-01 20:17:03:173 info: Getting all products
+2024-03-01 21:08:54:854 info: In create product controller
+2024-03-01 21:08:54:854 info: Error in creating product db query: Product validation failed: productImage: Path `productImage` is required.
+2024-03-01 21:08:54:854 info: Error in creating user: Error in creating product
+2024-03-01 21:09:02:92 info: In create product controller
+2024-03-01 21:09:02:92 info: Error in creating product db query: Product validation failed: productImage: Path `productImage` is required.
+2024-03-01 21:09:02:92 info: Error in creating user: Error in creating product
+2024-03-01 21:18:23:1823 info: In create product controller
+2024-03-01 21:18:23:1823 info: Query: responded with new product created: {
+  productName: 'LIFEBOY 50G',
+  categoryId: new ObjectId('65e00c62db82e06b75e6aec9'),
+  batchNumber: '7898654457878',
+  productDescription: 'This is a best bathing soap',
+  productPrice: 10,
+  productActualPrice: 8,
+  productQuantity: 10000,
+  productImage: 'lifeboy.jpg',
+  productMfgDate: 2024-01-10T00:00:00.000Z,
+  productExpiyDate: 2027-01-10T00:00:00.000Z,
+  productBarcode: '76776676767677667',
+  slug: 'soap,best Soap,50G',
+  active: true,
+  reviews: [],
+  _id: new ObjectId('65e1f8c725fcd7479031db4f'),
+  createdAt: 2024-03-01T15:48:23.920Z,
+  updatedAt: 2024-03-01T15:48:23.920Z,
+  __v: 0
+}
+2024-03-01 21:18:36:1836 info: In create product controller
